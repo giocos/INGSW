@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters>
+	<first>
+		<id>A</id>
+		<color>RED</color>
+		<size>20</size>
+	</first>
+	<second>
+		<id>B</id>
+		<color>BLUE</color>
+		<size>16</size>
+	</second>
+	<third>
+		<id>C</id>
+		<color>GREEN</color>
+		<size>18</size>
+	</third>
+</characters>
